@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Power Ranking the Best College NBA Teams"
+title: "Power Ranking the Best NBA Lineups by College"
 date: 2013-11-20 19:29:32 -0500
 comments: true
 categories:
@@ -16,11 +16,28 @@ categories:
 
 
 ``` plain #1 - Kentucky
-John Wall
-Eric Bledsoe
-Michael Kidd-Gilchrist
-DeMarcus Cousins
-Anthony Davis
+(WAS) John Wall
+(PHO) Eric Bledsoe
+(CHA) Michael Kidd-Gilchrist
+(SAC) DeMarcus Cousins
+(NOP) Anthony Davis
+
+=======================
+
+Minutes  166.05 [ 3rd ]
+Points   89.86  [ 1st ]
+Assists  20.49  [ 5th ]
+Rebounds 31.58  [ 2nd ]
+Steals   8.31   [ 9th ]
+Blocks   7.42   [ 4th ]
+```
+
+``` plain #2 - Kansas
+(MIA) Mario Chalmers
+(SAC) Ben McLemore
+(LAL) Xavier Henry
+(BRK) Paul Pierce
+(OKC) Nick Collison
 
 ======================
 
@@ -32,12 +49,12 @@ Steals   8.31   [ 9th ]
 Blocks   7.42   [ 4th ]
 ```
 
-``` plain Kansas
-John Wall
-Eric Bledsoe
-Michael Kidd-Gilchrist
-DeMarcus Cousins
-Anthony Davis
+``` plain #3 - Washington
+(DEN) Nate Robinson
+(SAC) Isaiah Thomas
+(PHI) Tony Wroten
+(MEM) Quincy Pondexter
+(PHI) Spencer Hawes
 
 ======================
 
@@ -49,146 +66,291 @@ Steals   8.31   [ 9th ]
 Blocks   7.42   [ 4th ]
 ```
 
-``` plain Washington
-Player 1
-Player 2
-Player 3
-Player 4
-Player 5
+``` plain #4 - LSU
+(WAS) Garrett Temple
+(SAC) Marcus Thornton
+(BOS) Brandon Bass
+(DEN) Anthony Randolph
+(ORL) Glen Davis
+
+======================
+
+Minutes  166.05 [ 3rd ]
+Points   89.86  [ 1st ]
+Assists  20.49  [ 5th ]
+Rebounds 31.58  [ 2nd ]
+Steals   8.31   [ 9th ]
+Blocks   7.42   [ 4th ]
 ```
 
-``` plain LSU
-Player 1
-Player 2
-Player 3
-Player 4
-Player 5
+``` plain #5 - UCLA
+(OKC) Russell Westbrook
+(NOP) Jrue Holiday
+(ORL) Arron Afflalo
+(WAS) Trevor Ariza
+(MIN) Kevin Love
+
+======================
+
+Minutes  166.05 [ 3rd ]
+Points   89.86  [ 1st ]
+Assists  20.49  [ 5th ]
+Rebounds 31.58  [ 2nd ]
+Steals   8.31   [ 9th ]
+Blocks   7.42   [ 4th ]
 ```
 
-``` plain UCLA
-Player 1
-Player 2
-Player 3
-Player 4
-Player 5
+``` plain #6 - North Carolina
+(NYK) Raymond Felton
+(DEN) Ty Lawson
+(SAS) Danny Green
+(GSW) Harrison Barnes
+(TOR) Tyler Hansbrough
+
+======================
+
+Minutes  166.05 [ 3rd ]
+Points   89.86  [ 1st ]
+Assists  20.49  [ 5th ]
+Rebounds 31.58  [ 2nd ]
+Steals   8.31   [ 9th ]
+Blocks   7.42   [ 4th ]
 ```
 
-``` plain North Carolina
-Player 1
-Player 2
-Player 3
-Player 4
-Player 5
+``` plain #7 - Texas
+(TOR) D.J. Augustin
+(BOS) Avery Bradley
+(CLE) Tristan Thompson
+(OKC) Kevin Durant
+(POR) LaMarcus Aldridge
+
+======================
+
+Minutes  166.05 [ 3rd ]
+Points   89.86  [ 1st ]
+Assists  20.49  [ 5th ]
+Rebounds 31.58  [ 2nd ]
+Steals   8.31   [ 9th ]
+Blocks   7.42   [ 4th ]
 ```
 
-``` plain Texas
-Player 1
-Player 2
-Player 3
-Player 4
-Player 5
+``` plain #8 - Florida
+(WAS) Bradley Beal
+(HOU) Chandler Parsons
+(GSW) David Lee
+(ATL) Al Horford
+(CHI) Joakim Noah
+
+======================
+
+Minutes  166.05 [ 3rd ]
+Points   89.86  [ 1st ]
+Assists  20.49  [ 5th ]
+Rebounds 31.58  [ 2nd ]
+Steals   8.31   [ 9th ]
+Blocks   7.42   [ 4th ]
 ```
 
-``` plain Florida
-Player 1
-Player 2
-Player 3
-Player 4
-Player 5
+``` plain #9 - Wake Forest
+(LAC) Chris Paul
+(ATL) Jeff Teague
+(PHO) Ishmael Smith
+(NOP) Al-Farouq Aminu
+(SAS) Tim Duncan
+
+======================
+
+Minutes  166.05 [ 3rd ]
+Points   89.86  [ 1st ]
+Assists  20.49  [ 5th ]
+Rebounds 31.58  [ 2nd ]
+Steals   8.31   [ 9th ]
+Blocks   7.42   [ 4th ]
 ```
 
-``` plain Wake Forest
-Player 1
-Player 2
-Player 3
-Player 4
-Player 5
+``` plain #10 - Georgia Tech
+(CLE) Jarrett Jack
+(NYK) Iman Shumpert
+(PHI) Thaddeus Young
+(MIA) Chris Bosh
+(UTA) Derrick Favors
+
+======================
+
+Minutes  166.05 [ 3rd ]
+Points   89.86  [ 1st ]
+Assists  20.49  [ 5th ]
+Rebounds 31.58  [ 2nd ]
+Steals   8.31   [ 9th ]
+Blocks   7.42   [ 4th ]
 ```
 
-``` plain Georgia Tech
-Player 1
-Player 2
-Player 3
-Player 4
-Player 5
+``` plain #11 - Arizona
+(MEM) Jerryd Bayless
+(BRK) Jason Terry
+(GSW) Andre Iguodala
+(PHO) Channing Frye
+(LAL) Jordan Hill
+
+======================
+
+Minutes  166.05 [ 3rd ]
+Points   89.86  [ 1st ]
+Assists  20.49  [ 5th ]
+Rebounds 31.58  [ 2nd ]
+Steals   8.31   [ 9th ]
+Blocks   7.42   [ 4th ]
 ```
 
-``` plain Arizona
-Player 1
-Player 2
-Player 3
-Player 4
-Player 5
+``` plain #12 - Marquette
+(MIA) Dwyane Wade
+(POR) Wesley Matthews
+(CHI) Jimmy Butler
+(DAL) Jae Crowder
+(TOR) Steve Novak
+
+======================
+
+Minutes  166.05 [ 3rd ]
+Points   89.86  [ 1st ]
+Assists  20.49  [ 5th ]
+Rebounds 31.58  [ 2nd ]
+Steals   8.31   [ 9th ]
+Blocks   7.42   [ 4th ]
 ```
 
-``` plain Marquette
-Player 1
-Player 2
-Player 3
-Player 4
-Player 5
+``` plain #13 - Duke
+(CLE) Kyrie Irving
+(LAC) J.J. Redick
+(CHI) Luol Deng
+(CHI) Carlos Boozer
+(PHO) Miles Plumlee
+
+======================
+
+Minutes  166.05 [ 3rd ]
+Points   89.86  [ 1st ]
+Assists  20.49  [ 5th ]
+Rebounds 31.58  [ 2nd ]
+Steals   8.31   [ 9th ]
+Blocks   7.42   [ 4th ]
 ```
 
-``` plain Duke
-Player 1
-Player 2
-Player 3
-Player 4
-Player 5
+``` plain #14 - Louisville
+(DET) Peyton Siva
+(NYK) Chris Smith
+(HOU) Francisco Garcia
+(CLE) Earl Clark
+(MIN) Gorgui Dieng
+
+======================
+
+Minutes  166.05 [ 3rd ]
+Points   89.86  [ 1st ]
+Assists  20.49  [ 5th ]
+Rebounds 31.58  [ 2nd ]
+Steals   8.31   [ 9th ]
+Blocks   7.42   [ 4th ]
 ```
 
-``` plain Louisville
-Player 1
-Player 2
-Player 3
-Player 4
-Player 5
+``` plain #15 - Connecticut
+(OKC) Jeremy Lamb
+(MIA) Ray Allen
+(MIL) Caron Butler
+(TOR) Rudy Gay
+(DET) Andre Drummond
+
+======================
+
+Minutes  166.05 [ 3rd ]
+Points   89.86  [ 1st ]
+Assists  20.49  [ 5th ]
+Rebounds 31.58  [ 2nd ]
+Steals   8.31   [ 9th ]
+Blocks   7.42   [ 4th ]
 ```
 
-``` plain Connecticut
-Player 1
-Player 2
-Player 3
-Player 4
-Player 5
+``` plain #16 - Ohio State
+(MEM) Mike Conley
+(PHI) Evan Turner
+(BOS) Jared Sullinger
+(MEM) Kosta Koufos
+(MIA) Greg Oden
+
+======================
+
+Minutes  166.05 [ 3rd ]
+Points   89.86  [ 1st ]
+Assists  20.49  [ 5th ]
+Rebounds 31.58  [ 2nd ]
+Steals   8.31   [ 9th ]
+Blocks   7.42   [ 4th ]
 ```
 
-``` plain Ohio State
-Player 1
-Player 2
-Player 3
-Player 4
-Player 5
+``` plain #17 - Georgetown
+(WAS) Otto Porter
+(BOS) Jeff Green
+(PHI) Hollis Thompson
+(DET) Greg Monroe
+(IND) Roy Hibbert
+
+======================
+
+Minutes  166.05 [ 3rd ]
+Points   89.86  [ 1st ]
+Assists  20.49  [ 5th ]
+Rebounds 31.58  [ 2nd ]
+Steals   8.31   [ 9th ]
+Blocks   7.42   [ 4th ]
 ```
 
-``` plain Georgetown
-Player 1
-Player 2
-Player 3
-Player 4
-Player 5
+``` plain #18 - USC
+(MIL) O.J. Mayo
+(TOR) DeMar DeRozan
+(LAL) Nick Young
+(CHI) Taj Gibson
+(ORL) Nikola Vucevic
+
+======================
+
+Minutes  166.05 [ 3rd ]
+Points   89.86  [ 1st ]
+Assists  20.49  [ 5th ]
+Rebounds 31.58  [ 2nd ]
+Steals   8.31   [ 9th ]
+Blocks   7.42   [ 4th ]
 ```
 
-``` plain USC
-Player 1
-Player 2
-Player 3
-Player 4
-Player 5
+``` plain #19 - Syracuse
+(CLE) Dion Waiters
+(PHI) Michael Carter-Williams
+(LAL) Wesley Johnson
+(NYK) Carmelo Anthony
+(NOP) Arinze Onuaku
+
+======================
+
+Minutes  166.05 [ 3rd ]
+Points   89.86  [ 1st ]
+Assists  20.49  [ 5th ]
+Rebounds 31.58  [ 2nd ]
+Steals   8.31   [ 9th ]
+Blocks   7.42   [ 4th ]
 ```
 
-``` plain Syracuse
-Player 1
-Player 2
-Player 3
-Player 4
-Player 5
-```
+``` plain #20 - Gonzaga
+(LAL) Elias Harris
+(TOR) Austin Daye
+(BOS) Kelly Olynyk
+(LAL) Robert Sacre
+(MIN) Ronny Turiaf
 
-``` plain Gonzaga
-Player 1
-Player 2
-Player 3
-Player 4
-Player 5
+======================
+
+Minutes  166.05 [ 3rd ]
+Points   89.86  [ 1st ]
+Assists  20.49  [ 5th ]
+Rebounds 31.58  [ 2nd ]
+Steals   8.31   [ 9th ]
+Blocks   7.42   [ 4th ]
 ```

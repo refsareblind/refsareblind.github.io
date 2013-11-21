@@ -1,2 +1,9 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
+
+figcaption {
+  background-image: linear-gradient(rgb(255, 255, 255), rgb(240, 240, 240) 6%, rgb(229, 229, 229) 90%, rgb(221, 221, 221)) !important;
+
+  span {
+    font-size: 15px !important; }
+}

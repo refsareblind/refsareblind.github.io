@@ -4,7 +4,7 @@
   <title><![CDATA[Refs Are Blind]]></title>
   <link href="http://refsareblind.github.io/atom.xml" rel="self"/>
   <link href="http://refsareblind.github.io/"/>
-  <updated>2013-11-20T21:11:27-05:00</updated>
+  <updated>2013-11-20T21:27:08-05:00</updated>
   <id>http://refsareblind.github.io/</id>
   <author>
     <name><![CDATA[Jordan Leigh]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[College Rankings]]></title>
+    <title type="html"><![CDATA[Power Ranking the Best College NBA Teams]]></title>
     <link href="http://refsareblind.github.io/blog/2013/11/20/college-rankings/"/>
     <updated>2013-11-20T19:29:32-05:00</updated>
     <id>http://refsareblind.github.io/blog/2013/11/20/college-rankings</id>
@@ -30,7 +30,7 @@
 </ol>
 
 
-<figure class='code'><figcaption><span>Kentucky</span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<figure class='code'><figcaption><span>#1 - Kentucky</span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
 <span class='line-number'>2</span>
 <span class='line-number'>3</span>
 <span class='line-number'>4</span>
@@ -42,11 +42,15 @@
 <span class='line-number'>10</span>
 <span class='line-number'>11</span>
 <span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
 </pre></td><td class='code'><pre><code class=''><span class='line'>John Wall
 </span><span class='line'>Eric Bledsoe
 </span><span class='line'>Michael Kidd-Gilchrist
 </span><span class='line'>DeMarcus Cousins
 </span><span class='line'>Anthony Davis
+</span><span class='line'>
+</span><span class='line'>======================
 </span><span class='line'>
 </span><span class='line'>Minutes  166.05 [ 3rd ]
 </span><span class='line'>Points   89.86  [ 1st ]
@@ -63,11 +67,29 @@
 <span class='line-number'>3</span>
 <span class='line-number'>4</span>
 <span class='line-number'>5</span>
-</pre></td><td class='code'><pre><code class=''><span class='line'>Player 1
-</span><span class='line'>Player 2
-</span><span class='line'>Player 3
-</span><span class='line'>Player 4
-</span><span class='line'>Player 5</span></code></pre></td></tr></table></div></figure>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>John Wall
+</span><span class='line'>Eric Bledsoe
+</span><span class='line'>Michael Kidd-Gilchrist
+</span><span class='line'>DeMarcus Cousins
+</span><span class='line'>Anthony Davis
+</span><span class='line'>
+</span><span class='line'>======================
+</span><span class='line'>
+</span><span class='line'>Minutes  166.05 [ 3rd ]
+</span><span class='line'>Points   89.86  [ 1st ]
+</span><span class='line'>Assists  20.49  [ 5th ]
+</span><span class='line'>Rebounds 31.58  [ 2nd ]
+</span><span class='line'>Steals   8.31   [ 9th ]
+</span><span class='line'>Blocks   7.42   [ 4th ]</span></code></pre></td></tr></table></div></figure>
 
 
 

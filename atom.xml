@@ -4,7 +4,7 @@
   <title><![CDATA[Refs Are Blind]]></title>
   <link href="http://refsareblind.github.io/atom.xml" rel="self"/>
   <link href="http://refsareblind.github.io/"/>
-  <updated>2013-11-20T20:04:09-05:00</updated>
+  <updated>2013-11-20T20:10:32-05:00</updated>
   <id>http://refsareblind.github.io/</id>
   <author>
     <name><![CDATA[Jordan Leigh]]></name>
@@ -34,11 +34,25 @@
 <span class='line-number'>3</span>
 <span class='line-number'>4</span>
 <span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
 </pre></td><td class='code'><pre><code class=''><span class='line'>Player 1
 </span><span class='line'>Player 2
 </span><span class='line'>Player 3
 </span><span class='line'>Player 4
-</span><span class='line'>Player 5</span></code></pre></td></tr></table></div></figure>
+</span><span class='line'>Player 5
+</span><span class='line'>--------
+</span><span class='line'>Minutes: 226.9
+</span><span class='line'>Points: 68.5
+</span><span class='line'>Assists: 23.4
+</span><span class='line'>Rebounds: 36.8
+</span><span class='line'>Steals: 12.0
+</span><span class='line'>Blocks: 9.1</span></code></pre></td></tr></table></div></figure>
 
 
 

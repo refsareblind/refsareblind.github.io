@@ -26,12 +26,12 @@ categories:
 ```
 
 ``` plain The Stats
-Minutes  166.05 [ 3rd ]
-Points   89.86  [ 1st ]
-Assists  20.49  [ 5th ]
-Rebounds 31.58  [ 2nd ]
-Steals   8.31   [ 9th ]
-Blocks   7.42   [ 4th ]
+Minutes  47.1 [ 20th ]
+Points   11.4 [ 20th ]
+Assists  4.2  [ 18th ]
+Rebounds 10.8 [ 19th ]
+Steals   1.6  [ 19th ]
+Blocks   1.5  [ 18th ]
 ```
 
 Congratulations to the Zags for even being able to field a team for this tournament. They're the only mid-major school that is able to put a 5-man rotation together and book their ticket, but unfortunately that's where the good news ends for this Zags squad. With no guards on their roster 6'8 forward and role player for the Lakers - Elias Harris - is forced to play the point. 6'11 Austin Daye is forced to play the 2 meaning the Zags field a backcourt that's averaging less than a point per game. Boston rookie Kelly Olynyk is the teams go to scoring option at the 3 - and when your teams leading scorer averages 8 points per game, you're in a lot of trouble. This team is dead on arrival.
@@ -46,12 +46,12 @@ Congratulations to the Zags for even being able to field a team for this tournam
 ```
 
 ``` plain The Stats
-Minutes  166.05 [ 3rd ]
-Points   89.86  [ 1st ]
-Assists  20.49  [ 5th ]
-Rebounds 31.58  [ 2nd ]
-Steals   8.31   [ 9th ]
-Blocks   7.42   [ 4th ]
+Minutes  50.1 [ 19th ]
+Points   14.2 [ 19th ]
+Assists  1.8  [ 20th ]
+Rebounds 8.0  [ 20th ]
+Steals   1.6  [ 20th ]
+Blocks   1.7  [ 17th ]
 ```
 
 Louisville is able to put a team together that is positionally sound, but the lack of talent is too big a hurdle to overcome. Combined they're only putting up 13 points per game and the backcourt of Siva-Smith is overmatched by every team sans the Harris-Daye duo of the Zags. Garcia and Clark have to carry the scoring for a team that will struggle mightily on offense.
@@ -66,12 +66,12 @@ Louisville is able to put a team together that is positionally sound, but the la
 ```
 
 ``` plain The Stats
-Minutes  166.05 [ 3rd ]
-Points   89.86  [ 1st ]
-Assists  20.49  [ 5th ]
-Rebounds 31.58  [ 2nd ]
-Steals   8.31   [ 9th ]
-Blocks   7.42   [ 4th ]
+Minutes  81.8 [ 18th ]
+Points   29.0 [ 18th ]
+Assists  4.0  [ 19th ]
+Rebounds 12.8 [ 18th ]
+Steals   2.5  [ 17th ]
+Blocks   1.8  [ 16th ]
 ```
 
 LSU suffers from the same "lack of talent" problem that plagues Louisville.
@@ -86,12 +86,12 @@ LSU suffers from the same "lack of talent" problem that plagues Louisville.
 ```
 
 ``` plain The Stats
-Minutes  166.05 [ 3rd ]
-Points   89.86  [ 1st ]
-Assists  20.49  [ 5th ]
-Rebounds 31.58  [ 2nd ]
-Steals   8.31   [ 9th ]
-Blocks   7.42   [ 4th ]
+Minutes  109.5 [ 16th ]
+Points   45.0  [ 15th ]
+Assists  4.9   [ 17th ]
+Rebounds 24.5  [ 9th ]
+Steals   2.1   [ 18th ]
+Blocks   6.0   [ 2nd ]
 ```
 
 Much like Gonzaga the Hoyas are crippled by a lack of options in the backcourt and have to put Boston forwrd Jeff Green at the 2 and rely on the currently injured Washington rookie and pending bust Otto Porter to run the point in his first NBA action. Even though the Hoyas are defensively sound and have a menacing front court in Monroe and Hibbert, this team gets smoked by every team ahead of them. You're only a couple pieces away from being a contender Georgetown.
@@ -106,37 +106,17 @@ Much like Gonzaga the Hoyas are crippled by a lack of options in the backcourt a
 ```
 
 ``` plain The Stats
-Minutes  166.05 [ 3rd ]
-Points   89.86  [ 1st ]
-Assists  20.49  [ 5th ]
-Rebounds 31.58  [ 2nd ]
-Steals   8.31   [ 9th ]
-Blocks   7.42   [ 4th ]
+Minutes  120.1 [ 14th ]
+Points   58.3  [ 12th ]
+Assists  14.6  [ 7th ]
+Rebounds 20.1  [ 13th ]
+Steals   3.6   [ 15th ]
+Blocks   2.2   [ 14th ]
 ```
 
 Washington runs a pretty balanced attack. Had Washington been able to steal Washington State alum Klay Thompson onto this team they might be able to contend, but as it stands there's not enough talent to go any further.
 
-### #15 - Syracuse
-``` plain The Roster
-(CLE) Dion Waiters
-(PHI) Michael Carter-Williams
-(LAL) Wesley Johnson
-(NYK) Carmelo Anthony
-(NOP) Arinze Onuaku
-```
-
-``` plain The Stats
-Minutes  166.05 [ 3rd ]
-Points   89.86  [ 1st ]
-Assists  20.49  [ 5th ]
-Rebounds 31.58  [ 2nd ]
-Steals   8.31   [ 9th ]
-Blocks   7.42   [ 4th ]
-```
-
-In another universe this Syracuse team might be able to put up a fight, but when you look past it for a minute you can see the gaping holes emerge. A solid 1-2 scoring combo of MCW and Carmelo Anthony is bookended by super busts Dion Waiters and Wesley Johnson. With Melo carrying the offense Pelicans rookie Arinze Onuaku is in charge of the interior defense. Melo's scoring isn't enough to take the Orange very far.
-
-### #14 - Arizona
+### #15 - Arizona
 ``` plain The Roster
 (MEM) Jerryd Bayless
 (BRK) Jason Terry
@@ -146,17 +126,17 @@ In another universe this Syracuse team might be able to put up a fight, but when
 ```
 
 ``` plain The Stats
-Minutes  166.05 [ 3rd ]
-Points   89.86  [ 1st ]
-Assists  20.49  [ 5th ]
-Rebounds 31.58  [ 2nd ]
-Steals   8.31   [ 9th ]
-Blocks   7.42   [ 4th ]
+Minutes  120.3 [ 13th ]
+Points   44.3  [ 17th ]
+Assists  10.4  [ 11th ]
+Rebounds 22.1  [ 11th ]
+Steals   4.0   [ 13th ]
+Blocks   2.3   [ 12th ]
 ```
 
 Boring washed up team. They can play defense and shoot, but that's pretty much it.
 
-### #13 - Kansas
+### #14 - Kansas
 ``` plain The Roster
 (MIA) Mario Chalmers
 (SAC) Ben McLemore
@@ -166,17 +146,18 @@ Boring washed up team. They can play defense and shoot, but that's pretty much i
 ```
 
 ``` plain The Stats
-Minutes  166.05 [ 3rd ]
-Points   89.86  [ 1st ]
-Assists  20.49  [ 5th ]
-Rebounds 31.58  [ 2nd ]
-Steals   8.31   [ 9th ]
-Blocks   7.42   [ 4th ]
+Minutes  118.8 [ 15th ]
+Points   44.9  [ 16th ]
+Assists  10.2  [ 12th ]
+Rebounds 17.4  [ 17th ]
+Steals   4.9   [ 10th ]
+Blocks   0.8   [ 19th ]
 ```
 
 In a controversial decision Kansas elects to go with Ben McLemore and Xavier Henry over Phoenix forward Markieff Morris. With a washed up Paul Pierce the scoring just isn't there to push the team forward.
 
-### #12 - Marquette
+
+### #13 - Marquette
 ``` plain The Roster
 (MIA) Dwyane Wade
 (POR) Wesley Matthews
@@ -186,55 +167,17 @@ In a controversial decision Kansas elects to go with Ben McLemore and Xavier Hen
 ```
 
 ``` plain The Stats
-Minutes  166.05 [ 3rd ]
-Points   89.86  [ 1st ]
-Assists  20.49  [ 5th ]
-Rebounds 31.58  [ 2nd ]
-Steals   8.31   [ 9th ]
-Blocks   7.42   [ 4th ]
+Minutes  128.4 [ 12th ]
+Points   51.8  [ 14th ]
+Assists  9.6   [ 15th ]
+Rebounds 19.2  [ 15th ]
+Steals   6.1   [ 5th ]
+Blocks   2.3   [ 11th ]
 ```
 
 Marquette is tough, but suffers from a poor frontcourt. Steve Novak is the only 6'8 player on the roster and is forced to slide into the center position where he gets abused defensively. The Dwyane Wade point guard experiment goes worse than expected.
 
-### #11 - USC
-``` plain The Roster
-(MIL) O.J. Mayo
-(TOR) DeMar DeRozan
-(LAL) Nick Young
-(CHI) Taj Gibson
-(ORL) Nikola Vucevic
-```
-
-``` plain The Stats
-Minutes  166.05 [ 3rd ]
-Points   89.86  [ 1st ]
-Assists  20.49  [ 5th ]
-Rebounds 31.58  [ 2nd ]
-Steals   8.31   [ 9th ]
-Blocks   7.42   [ 4th ]
-```
-
-something something something
-
-### #10 - North Carolina
-``` plain The Roster
-(NYK) Raymond Felton
-(DEN) Ty Lawson
-(SAS) Danny Green
-(GSW) Harrison Barnes
-(TOR) Tyler Hansbrough
-```
-
-```
-Minutes  166.05 [ 3rd ]
-Points   89.86  [ 1st ]
-Assists  20.49  [ 5th ]
-Rebounds 31.58  [ 2nd ]
-Steals   8.31   [ 9th ]
-Blocks   7.42   [ 4th ]
-```
-
-### #9 - Ohio State
+### #12 - Ohio State
 ``` plain The Roster
 (MEM) Mike Conley
 (PHI) Evan Turner
@@ -244,15 +187,73 @@ Blocks   7.42   [ 4th ]
 ```
 
 ``` plain The Stats
-Minutes  166.05 [ 3rd ]
-Points   89.86  [ 1st ]
-Assists  20.49  [ 5th ]
-Rebounds 31.58  [ 2nd ]
-Steals   8.31   [ 9th ]
-Blocks   7.42   [ 4th ]
+Minutes  106.1 [ 17th ]
+Points   58.4  [ 11th ]
+Assists  11.3  [ 9th ]
+Rebounds 18.1  [ 16th ]
+Steals   3.0   [ 16th ]
+Blocks   1.9   [ 15th ]
 ```
 
 The only Big Ten team in the tournament.
+
+### #11 - Syracuse
+``` plain The Roster
+(CLE) Dion Waiters
+(PHI) Michael Carter-Williams
+(LAL) Wesley Johnson
+(NYK) Carmelo Anthony
+(NOP) Arinze Onuaku
+```
+
+``` plain The Stats
+Minutes  136.3 [ 10th ]
+Points   65.2  [ 8th ]
+Assists  15.0  [ 5th ]
+Rebounds 23.4  [ 10th ]
+Steals   6.7   [ 3rd ]
+Blocks   3.3   [ 5th ]
+```
+
+In another universe this Syracuse team might be able to put up a fight, but when you look past it for a minute you can see the gaping holes emerge. A solid 1-2 scoring combo of MCW and Carmelo Anthony is bookended by super busts Dion Waiters and Wesley Johnson. With Melo carrying the offense Pelicans rookie Arinze Onuaku is in charge of the interior defense. Melo's scoring isn't enough to take the Orange very far.
+
+### #10 - USC
+``` plain The Roster
+(MIL) O.J. Mayo
+(TOR) DeMar DeRozan
+(LAL) Nick Young
+(CHI) Taj Gibson
+(ORL) Nikola Vucevic
+```
+
+``` plain The Stats
+Minutes  154.3 [ 5th ]
+Points   77.4  [ 6th ]
+Assists  10.0  [ 13th ]
+Rebounds 27.0  [ 8th ]
+Steals   4.8   [ 11th ]
+Blocks   3.0   [ 7th ]
+```
+
+something something something
+
+### #9 - North Carolina
+``` plain The Roster
+(NYK) Raymond Felton
+(DEN) Ty Lawson
+(SAS) Danny Green
+(GSW) Harrison Barnes
+(TOR) Tyler Hansbrough
+```
+
+```
+Minutes  139.3 [ 9th ]
+Points   59.7  [ 10th ]
+Assists  16.5  [ 4th ]
+Rebounds 19.6  [ 14th ]
+Steals   4.6   [ 12th ]
+Blocks   2.7   [ 9th ]
+```
 
 ### #8 - Connecticut
 ``` plain The Roster
@@ -264,12 +265,12 @@ The only Big Ten team in the tournament.
 ```
 
 ``` plain The Stats
-Minutes  166.05 [ 3rd ]
-Points   89.86  [ 1st ]
-Assists  20.49  [ 5th ]
-Rebounds 31.58  [ 2nd ]
-Steals   8.31   [ 9th ]
-Blocks   7.42   [ 4th ]
+Minutes  148.7 [ 8th ]
+Points   66.3  [ 7th ]
+Assists  7.4   [ 16th ]
+Rebounds 30.9  [ 5th ]
+Steals   6.2   [ 4th ]
+Blocks   2.9   [ 8th ]
 ```
 
 UCONN elects to go with Ray Allen over Kemba Walker at the 2. Really balanced team with good inside scoring.
@@ -284,12 +285,12 @@ UCONN elects to go with Ray Allen over Kemba Walker at the 2. Really balanced te
 ```
 
 ``` plain The Stats
-Minutes  166.05 [ 3rd ]
-Points   89.86  [ 1st ]
-Assists  20.49  [ 5th ]
-Rebounds 31.58  [ 2nd ]
-Steals   8.31   [ 9th ]
-Blocks   7.42   [ 4th ]
+Minutes  152.0 [ 6th ]
+Points   62.5  [ 9th ]
+Assists  10.5  [ 10th ]
+Rebounds 30.2  [ 6th ]
+Steals   5.9   [ 6th ]
+Blocks   4.4   [ 3rd ]
 ```
 
 Something something something
@@ -304,12 +305,12 @@ Something something something
 ```
 
 ``` plain The Stats
-Minutes  166.05 [ 3rd ]
-Points   89.86  [ 1st ]
-Assists  20.49  [ 5th ]
-Rebounds 31.58  [ 2nd ]
-Steals   8.31   [ 9th ]
-Blocks   7.42   [ 4th ]
+Minutes  169.5 [ 2nd ]
+Points   81.4  [ 4th ]
+Assists  14.7  [ 6th ]
+Rebounds 35.0  [ 1st ]
+Steals   5.4   [ 8th ]
+Blocks   4.1   [ 4th ]
 ```
 
 Lack of backcourt options, but incredible interior scoring.
@@ -324,12 +325,12 @@ Lack of backcourt options, but incredible interior scoring.
 ```
 
 ``` plain The Stats
-Minutes  166.05 [ 3rd ]
-Points   89.86  [ 1st ]
-Assists  20.49  [ 5th ]
-Rebounds 31.58  [ 2nd ]
-Steals   8.31   [ 9th ]
-Blocks   7.42   [ 4th ]
+Minutes  151.4 [ 7th ]
+Points   80.7  [ 5th ]
+Assists  10.0  [ 14th ]
+Rebounds 30.1  [ 7th ]
+Steals   5.0   [ 9th ]
+Blocks   2.2   [ 13th ]
 ```
 
 Durant is the best player in the tournament. Not enough to carry the team.
@@ -346,12 +347,12 @@ Durant is the best player in the tournament. Not enough to carry the team.
 Duke opts to start J.J. Redick over Gerald Henderson at the 2 in order to balance the court.
 
 ``` plain The Stats
-Minutes  166.05 [ 3rd ]
-Points   89.86  [ 1st ]
-Assists  20.49  [ 5th ]
-Rebounds 31.58  [ 2nd ]
-Steals   8.31   [ 9th ]
-Blocks   7.42   [ 4th ]
+Minutes  163.2  [ 4th ]
+Points   81.9   [ 3rd ]
+Assists  13.4   [ 8th ]
+Rebounds 30.9   [ 4th ]
+Steals   3.9    [ 14th ]
+Blocks   3.1    [ 6th ]
 ```
 
 ### #3 - Wake Forest
@@ -364,12 +365,12 @@ Blocks   7.42   [ 4th ]
 ```
 
 ``` plain The Stats
-Minutes  166.05 [ 3rd ]
-Points   89.86  [ 1st ]
-Assists  20.49  [ 5th ]
-Rebounds 31.58  [ 2nd ]
-Steals   8.31   [ 9th ]
-Blocks   7.42   [ 4th ]
+Minutes  130.6  [ 11th ]
+Points   58.3   [ 13th ]
+Assists  28.8   [ 1st ]
+Rebounds 21.3   [ 12th ]
+Steals   5.5    [ 7th ]
+Blocks   2.4    [ 10th ]
 ```
 
 Love this roster. Love to see the Chris Paul - Tim Duncan combo.
@@ -384,12 +385,12 @@ Love this roster. Love to see the Chris Paul - Tim Duncan combo.
 ```
 
 ``` plain The Stats
-Minutes  166.1 [ xxx ]
-Points   89.9  [ xxx ]
-Assists  20.5  [ xxx ]
-Rebounds 31.6  [ xxx ]
-Steals   8.3   [ xxx ]
-Blocks   7.4   [ xxx ]
+Minutes  166.1 [ 3rd ]
+Points   89.9  [ 2nd ]
+Assists  20.5  [ 3rd ]
+Rebounds 31.6  [ 3rd ]
+Steals   8.3   [ 1st ]
+Blocks   7.4   [ 1st ]
 ```
 
 It's loaded. How are they not number 1? Anthony Davis... Boogie Cousins, John Wall. Wall isn't that great...
@@ -404,12 +405,12 @@ It's loaded. How are they not number 1? Anthony Davis... Boogie Cousins, John Wa
 ```
 
 ``` plain The Stats
-Minutes  173.8 [ xxx ]
-Points   99.7  [ xxx ]
-Assists  24.1  [ xxx ]
-Rebounds 33.7  [ xxx ]
-Steals   6.8   [ xxx ]
-Blocks   0.7   [ xxx ]
+Minutes  173.8 [ 1st ]
+Points   99.7  [ 1st ]
+Assists  24.1  [ 2nd ]
+Rebounds 33.7  [ 2nd ]
+Steals   6.8   [ 2nd ]
+Blocks   0.7   [ 20th ]
 ```
 
 Unstoppable. Boogie Cousins vs. Ariza advantage, but this is a team with 5 players that all shoot 30% from 3PT range, can play up tempo or slow and controlled. Congratulations to UCLA for winning this completely imaginary tournament.

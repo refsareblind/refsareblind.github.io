@@ -4,7 +4,7 @@
   <title><![CDATA[Refs Are Blind]]></title>
   <link href="http://refsareblind.github.io/atom.xml" rel="self"/>
   <link href="http://refsareblind.github.io/"/>
-  <updated>2013-11-20T22:28:57-05:00</updated>
+  <updated>2013-11-20T23:12:03-05:00</updated>
   <id>http://refsareblind.github.io/</id>
   <author>
     <name><![CDATA[Jordan Leigh]]></name>
@@ -29,6 +29,38 @@
 <li> Stats are at date 11.20.2013</li>
 </ol>
 
+
+<figure class='code'><figcaption><span>#20 - Gonzaga</span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>(LAL) Elias Harris
+</span><span class='line'>(TOR) Austin Daye
+</span><span class='line'>(BOS) Kelly Olynyk
+</span><span class='line'>(LAL) Robert Sacre
+</span><span class='line'>(MIN) Ronny Turiaf
+</span><span class='line'>
+</span><span class='line'>======================
+</span><span class='line'>
+</span><span class='line'>Minutes  166.05 [ 3rd ]
+</span><span class='line'>Points   89.86  [ 1st ]
+</span><span class='line'>Assists  20.49  [ 5th ]
+</span><span class='line'>Rebounds 31.58  [ 2nd ]
+</span><span class='line'>Steals   8.31   [ 9th ]
+</span><span class='line'>Blocks   7.42   [ 4th ]</span></code></pre></td></tr></table></div></figure>
+
+
+<p>Congratulations to the Zags for even being able to field a team for this tournament. They&rsquo;re the only mid-major school that is able to put a 5-man rotation together and book their ticket, but unfortunately that&rsquo;s where the good news ends for this Zags squad. With no guards on their roster 6&#8217;8 forward and role player for the Lakers &ndash; Elias Harris &ndash; is forced to play the point. 6&#8217;11 Austin Daye is forced to play the 2 meaning the Zags field a backcourt that&rsquo;s averaging less than a point per game. Boston rookie Kelly Olynyk is the teams go to scoring option at the 3 &ndash; and when your teams leading scorer averages 8 points per game, you&rsquo;re in a lot of trouble. This team is dead on arrival.</p>
 
 <figure class='code'><figcaption><span>#1 - Kentucky</span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
 <span class='line-number'>2</span>
@@ -625,38 +657,6 @@
 </span><span class='line'>(LAL) Wesley Johnson
 </span><span class='line'>(NYK) Carmelo Anthony
 </span><span class='line'>(NOP) Arinze Onuaku
-</span><span class='line'>
-</span><span class='line'>======================
-</span><span class='line'>
-</span><span class='line'>Minutes  166.05 [ 3rd ]
-</span><span class='line'>Points   89.86  [ 1st ]
-</span><span class='line'>Assists  20.49  [ 5th ]
-</span><span class='line'>Rebounds 31.58  [ 2nd ]
-</span><span class='line'>Steals   8.31   [ 9th ]
-</span><span class='line'>Blocks   7.42   [ 4th ]</span></code></pre></td></tr></table></div></figure>
-
-
-
-
-<figure class='code'><figcaption><span>#20 - Gonzaga</span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-<span class='line-number'>4</span>
-<span class='line-number'>5</span>
-<span class='line-number'>6</span>
-<span class='line-number'>7</span>
-<span class='line-number'>8</span>
-<span class='line-number'>9</span>
-<span class='line-number'>10</span>
-<span class='line-number'>11</span>
-<span class='line-number'>12</span>
-<span class='line-number'>13</span>
-<span class='line-number'>14</span>
-</pre></td><td class='code'><pre><code class=''><span class='line'>(LAL) Elias Harris
-</span><span class='line'>(TOR) Austin Daye
-</span><span class='line'>(BOS) Kelly Olynyk
-</span><span class='line'>(LAL) Robert Sacre
-</span><span class='line'>(MIN) Ronny Turiaf
 </span><span class='line'>
 </span><span class='line'>======================
 </span><span class='line'>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Refs Are Blind]]></title>
+  <link href="http://refsareblind.github.io/atom.xml" rel="self"/>
+  <link href="http://refsareblind.github.io/"/>
+  <updated>2013-11-20T19:46:32-05:00</updated>
+  <id>http://refsareblind.github.io/</id>
+  <author>
+    <name><![CDATA[Jordan Leigh]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[College Rankings]]></title>
+    <link href="http://refsareblind.github.io/blog/2013/11/20/college-rankings/"/>
+    <updated>2013-11-20T19:29:32-05:00</updated>
+    <id>http://refsareblind.github.io/blog/2013/11/20/college-rankings</id>
+    <content type="html"><![CDATA[<h1>Ranking the Teams</h1>
+
+<figure class='code'><figcaption><span>Syracuse</span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>Carmelo Anthony
+</span><span class='line'>Wesley Matthews
+</span><span class='line'>Lance Stephenson
+</span><span class='line'>Miles Plumlee
+</span><span class='line'>Anthony Davis</span></code></pre></td></tr></table></div></figure>
+
+]]></content>
+  </entry>
+  
+</feed>

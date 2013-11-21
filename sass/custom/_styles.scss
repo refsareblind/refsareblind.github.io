@@ -3,7 +3,13 @@
 
 figcaption {
   background-image: linear-gradient(rgb(255, 255, 255), rgb(240, 240, 240) 6%, rgb(229, 229, 229) 90%, rgb(221, 221, 221)) !important;
+  border-bottom-color: rgb(119, 119, 119) !important;
+  border-left-color: rgb(197, 197, 197) !important;
+  border-right-color: rgb(197, 197, 197) !important;
+  border-top-color: rgb(213, 213, 213) !important;
 
   span {
-    font-size: 15px !important; }
+    // color: rgb(119, 119, 119);
+    color: rgb(0, 0, 0);
+    font-size: 13px; }
 }

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "college rankings"
+title: "Power Ranking the Best College NBA Teams"
 date: 2013-11-20 19:29:32 -0500
 comments: true
 categories:
@@ -15,12 +15,14 @@ categories:
   6. Stats are at date 11.20.2013
 
 
-``` plain Kentucky
+``` plain #1 - Kentucky
 John Wall
 Eric Bledsoe
 Michael Kidd-Gilchrist
 DeMarcus Cousins
 Anthony Davis
+
+======================
 
 Minutes  166.05 [ 3rd ]
 Points   89.86  [ 1st ]
@@ -31,11 +33,20 @@ Blocks   7.42   [ 4th ]
 ```
 
 ``` plain Kansas
-Player 1
-Player 2
-Player 3
-Player 4
-Player 5
+John Wall
+Eric Bledsoe
+Michael Kidd-Gilchrist
+DeMarcus Cousins
+Anthony Davis
+
+======================
+
+Minutes  166.05 [ 3rd ]
+Points   89.86  [ 1st ]
+Assists  20.49  [ 5th ]
+Rebounds 31.58  [ 2nd ]
+Steals   8.31   [ 9th ]
+Blocks   7.42   [ 4th ]
 ```
 
 ``` plain Washington

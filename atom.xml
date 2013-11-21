@@ -4,7 +4,7 @@
   <title><![CDATA[Refs Are Blind]]></title>
   <link href="http://refsareblind.github.io/atom.xml" rel="self"/>
   <link href="http://refsareblind.github.io/"/>
-  <updated>2013-11-20T20:16:53-05:00</updated>
+  <updated>2013-11-20T20:20:10-05:00</updated>
   <id>http://refsareblind.github.io/</id>
   <author>
     <name><![CDATA[Jordan Leigh]]></name>
@@ -30,7 +30,7 @@
 </ol>
 
 
-<figure class='code'><figcaption><span>Kentucky mark:3,8</span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<figure class='code'><figcaption><span>Kentucky start:1 mark:3,8 linenos:false</span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
 <span class='line-number'>2</span>
 <span class='line-number'>3</span>
 <span class='line-number'>4</span>
